@@ -105,22 +105,22 @@
 3. SingleChildScrollView untuk menghindari masalah overflow saat informasi banyak.
 
 # Screenshot Aplikasi
-1. <br>**Login Page**
+1. **Login Page** <br>
    <img src="https://github.com/user-attachments/assets/6fbd54d2-336c-4fef-b36c-09fe2327b00e" alt="Login" width="300"/>
 
-2. <br>**Profile Page**
+2. **Profile Page** <br>
    <img src="https://github.com/user-attachments/assets/930bb80e-97e9-4c4b-b827-41cc657d4ef9" alt="Profile" width="300"/>
 
-3. <br>**Schedule Page**
+3. **Schedule Page** <br>
    <img src="https://github.com/user-attachments/assets/503524d2-af46-44b4-92bd-1d81c29321a5" alt="Schedule" width="300"/>
 
-4. <br>**Task Page**
+4. **Task Page** <br>
    <img src="https://github.com/user-attachments/assets/049a0e20-cbb8-4042-b94a-12460278d775" alt="Task" width="300"/>
 
-5. <br>**About Page**
+5. **About Page** <br>
    <img src="https://github.com/user-attachments/assets/ed4f054f-19dc-4702-b503-5a2939f7775d" alt="About" width="300"/>
 
-6. <br>**Side Menu**
+6. **Side Menu** <br>
    <img src="https://github.com/user-attachments/assets/44b8f723-72d9-433e-8c39-6a6be4ab3fc2" alt="Side Menu" width="300"/>
 
 
