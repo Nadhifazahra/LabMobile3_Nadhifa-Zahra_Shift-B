@@ -105,7 +105,7 @@
 3. SingleChildScrollView untuk menghindari masalah overflow saat informasi banyak.
 
 # Screenshot Aplikasi
-1. **Login Page**
+1. Login Page
    <img src="https://github.com/user-attachments/assets/6fbd54d2-336c-4fef-b36c-09fe2327b00e" alt="Login" width="300"/>
 
 2. **Profile Page**
